@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## GitHub Contribution Grid Snake
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/<github_user>/<repository>/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/chainray01/chainray01/output/github-contribution-grid-snake.svg)
