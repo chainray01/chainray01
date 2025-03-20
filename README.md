@@ -9,4 +9,4 @@ I am a passionate developer with a primary focus on Java. I also have experience
 - 💬 Ask me about Java, Python, and SwiftUI.
 - ⚡ Fun fact: I love creating animations with code!
 
-![](https://raw.githubusercontent.com/chainray01/chainray01/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/chainray01/chainray01/output/github-contribution-grid-snake2.svg)
