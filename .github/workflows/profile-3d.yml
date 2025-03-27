@@ -17,7 +17,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          echo USERNAME: ${{ github.repository_owner }}
+          echo GITHUB_TOKEN: $GITHUB_TOKEN
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
